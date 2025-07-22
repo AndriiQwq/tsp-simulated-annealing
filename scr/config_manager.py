@@ -5,7 +5,6 @@ class ConfigManager:
             'size_of_map': None,
             'count_of_generation': None,
             'count_of_nested_generation': None,
-            'cities': [],
             'logging_enabled': None
         }
 
